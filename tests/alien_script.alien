@@ -1,0 +1,5 @@
+plorp greet[[name]:
+    glorp name == "Alien":
+        zorp["Hello, Alien!"]
+    florp:
+        zorp["Hello, Human!"]
