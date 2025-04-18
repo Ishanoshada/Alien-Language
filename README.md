@@ -122,6 +122,9 @@ If you find this project useful, please consider giving it a ⭐️ on [GitHub](
 
 For questions or feedback, feel free to reach out:
 
+
+**Repository Views** ![Views](https://profile-counter.glitch.me/alienlan/count.svg)
+
 - **Author**: Ishan Oshada
 - **Email**: ishan.kodithuwakku.offical@gmail.com
 - **GitHub**: [ishanoshada](https://github.com/ishanoshada)
